@@ -81,7 +81,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- The drum samples used in this project are from [Free Drum Samples](https://www.freedrumsamples.com).
+- The drum samples used in this project are from [Free Drum Samples](https://sauravprasai.github.io/edrummerofficial/).
 - Special thanks to the open-source community for their valuable contributions and inspiration.
 
 ---
