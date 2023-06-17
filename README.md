@@ -1,4 +1,4 @@
-# E-Drumset Official
+# 🥁E-Drumset Official
 
 This project is an electronic drumset created using HTML, CSS, and vanilla JavaScript. It allows users to play different drum sounds by clicking on the corresponding buttons. Additionally, there are options to increase and decrease the volume, mute the drumset, and show a guide button for easy playing. The project is hosted on GitHub Pages.
 
